@@ -1,4 +1,7 @@
-england_flag
+England Flag - HTML /CSS
 ============
 
-HTML / CSS version of the England's national flag.
+I needed a scalable version of the England flag for some fun around the World Cup 2014. 
+
+I's a simple non-optimal solution, in a single HTML file (index.html)
+
